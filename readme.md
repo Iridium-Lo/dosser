@@ -1,1 +1,1 @@
-![title](https://github.com/cmdline-batcheloranator/dosser/blob/master/img/image.png)
+![title](https://github.com/cmdline-batcheloranator/dosser/master/img/image.png)
