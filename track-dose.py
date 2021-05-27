@@ -6,14 +6,14 @@ days = [
         '16:00': 0
         }
     },
-	{ "day_name": "tue",
+    { "day_name": "thu",
         "taken_at": {
         '12:00': 0,
         '14:00': 0,
         '16:00': 0
         }
     },
-	{ "day_name": "wed",
+    { "day_name": "wed",
         "taken_at": {
         '12:00': 0,
         '14:00': 0,
