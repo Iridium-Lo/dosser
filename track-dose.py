@@ -52,7 +52,6 @@ days = [
 
 dose_ray = []
 
-
 for i in days:
     days = i["day_name"]
     dose = i["taken_at"].values()
