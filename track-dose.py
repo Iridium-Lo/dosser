@@ -54,6 +54,7 @@ dose_ray = []
 
 unit = 'changeme'
 substance = 'changeme'
+
 for i in days:
     days = i["day_name"]
     dose = i["taken_at"].values()
