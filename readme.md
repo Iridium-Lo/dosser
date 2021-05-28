@@ -19,7 +19,7 @@ Monitor your weekly and daily dosage, example:
 
 ### Computer
 
-- got clone this repo (for the dossers who can't figure that out...)
+- git clone this repo (for the dossers who can't figure that out...)
 - `python track-dose.py`
 
 ### Mobile
