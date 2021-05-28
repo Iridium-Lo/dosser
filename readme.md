@@ -28,6 +28,11 @@ Monitor your weekly and daily dosage, example:
 - more convenient as most people always have their phone on them
 - even the average dosser you see on the street always has a phone
 
+## Notes 
+- if you need help then feel free to get gone you dosser
+- go and drink buckfast and piss yourself in the street 
+- but make sure you track your dose, you filthy dosser
+
  
 
 
