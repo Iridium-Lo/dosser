@@ -18,12 +18,15 @@ Monitor your weekly and daily dosage, example:
 - didn't add Params as I want this to be compatible on computers and phones
 
 ### Computer
+
+- got clone this repo (for the dossers who can't figure that out...)
 - `python track-dose.py`
 
 ### Mobile
 
 - copy and past the code into a python app on your phone
-- more convenient as most people always have their phone on them
+- more convenient as most people always have their phone on them (like dossers)
+
  
 
 
