@@ -65,5 +65,4 @@ for i in days:
 Total = sum(dose_ray)
 
 nl='\n'
- 
 print(f"{nl}Total -> {substance}: {Total} {unit}")
