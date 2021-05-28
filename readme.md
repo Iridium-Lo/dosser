@@ -14,7 +14,7 @@ Monitor your weekly and daily dosage, example:
 # How to use
 
 - for both methods make seperate files for each thing you want to track
-- near the bottom of the file change the `unit` var
+- near the bottom of the file change the `unit` and `substance` vars
 - didn't add Params as I want this to be compatible on computers and phones
 
 ### Computer
@@ -29,7 +29,7 @@ Monitor your weekly and daily dosage, example:
 - even the average dosser you see on the street always has a phone
 
 ## Notes 
-- if you need help then feel free to get gone you dosser
+- if you need help then please feel free to get gone you dosser
 - go and drink buckfast and piss yourself in the street 
 - but make sure you track your dose, you filthy dosser
 
