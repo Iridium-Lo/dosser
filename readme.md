@@ -25,7 +25,8 @@ Monitor your weekly and daily dosage, example:
 ### Mobile
 
 - copy and past the code into a python app on your phone
-- more convenient as most people always have their phone on them (like dossers)
+- more convenient as most people always have their phone on them
+- even the average dosser you see on the street always has a phone
 
  
 
