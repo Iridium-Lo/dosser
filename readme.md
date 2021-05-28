@@ -11,6 +11,21 @@ Monitor your weekly and daily dosage, example:
 - medicines
 - cigarettes
 
+# How to use
+
+- for both methods make seperate files for each thing you want to track
+- near the bottom of the file change the `unit` var
+- didn't add Params as I want this to be compatible on computers and phones
+
+### Computer
+- `python track-dose.py`
+
+### Mobile
+
+- copy and past the code into a python app on your phone
+- more convenient as most people always have their phone on them
+ 
+
 
 
 
