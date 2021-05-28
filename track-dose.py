@@ -52,8 +52,8 @@ days = [
 
 dose_ray = []
 
-unit='changeme'
-
+unit = 'changeme'
+substance = 'changeme'
 for i in days:
     days = i["day_name"]
     dose = i["taken_at"].values()
@@ -65,4 +65,4 @@ Total = sum(dose_ray)
 
 nl='\n'
  
-print(f"{nl}Total -> dose: {Total} {unit}")
+print(f"{nl}Total -> {substance}: {Total} {unit}")
