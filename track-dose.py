@@ -59,10 +59,11 @@ for i in days:
     days = i["day_name"]
     dose = i["taken_at"].values()
     dose_per_day = sum(dose)
-    print(f"{days}: {dose_per_day} {unit}")
+    print(f"{days}: {dose_per_day}{unit}")
     dose_ray.append(dose_per_day)
     
-Total = sum(dose_ray)
+total = sum(dose_ray)
 
 nl='\n'
-print(f"{nl}Total -> {substance}: {Total} {unit}")
+print(f"{nl}Total -> {substance}: {total} 
+{unit}")
