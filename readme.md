@@ -13,7 +13,7 @@ Monitor your weekly and daily dosage, example:
 
 # How to use
 
-- for both methods make seperate files for each thing you want to track
+- make seperate files for each thing you want to track
 - near the bottom of the file change the `unit` and `substance` vars
 - didn't add Params as I want this to be compatible on computers and phones
 
