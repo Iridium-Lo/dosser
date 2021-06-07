@@ -6,7 +6,7 @@ days = [
         '16:00': 0
         }
     },
-    { "day_name": "thu",
+    { "day_name": "tue",
         "taken_at": {
         '12:00': 0,
         '14:00': 0,
