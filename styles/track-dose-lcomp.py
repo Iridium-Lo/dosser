@@ -53,7 +53,7 @@ days = [
 unit = 'changeme'
 substance = 'changeme'
 
-day = [i["day_name"] for i in days]
+day = (i["day_name"] for i in days)
 nums = [sum(i["taken_at"].values()) for i in days]
 
 [print(f"{i}: {x}") for i, x in zip(day, nums)]
