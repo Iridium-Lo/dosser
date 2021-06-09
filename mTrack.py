@@ -1,3 +1,5 @@
+import time
+
 days = [
    { "day_name": "mon",
         "taken_at": {
@@ -53,10 +55,14 @@ days = [
 unit = 'changeme'
 substance = 'changeme'
 
+s = time.time()
+
 day = list(map(lambda x: x["day_name"], days))
 nums = list(map(lambda x: sum(x["taken_at"].values()), days))
 
 list(map(lambda x, y: print(f"{x}: {y}"), day, nums))
 
-nl = '\n'
-print(f"{nl}Total -> {substance}: {sum(nums)}{unit}")
+print(round(time.time() - s, 5))
+
+#nl = '\n'
+#print(f"{nl}Total -> {substance}: {sum(nums)}{unit}")
